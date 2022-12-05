@@ -1,0 +1,93 @@
+        footer
+        {
+            background-color: rgb(21, 13, 86);
+            width:100%;
+            height:420px;
+            color: white;
+        }
+        #f1
+        {
+            margin-top:70px;
+            padding-left:50px;
+        }
+
+
+<footer>
+            <div class="container-fluid">
+                <div class="row" style="border:1px solid black; height:100% ">
+                    <div class="col-md-3 d-flex align-items-center justify-content-center">
+                        <img src="https://www.fixitytech.com/assets/images/logo1.png" alt="">
+                    </div>
+                    <div class="col-md-9" id="f1" style="font-size:25px; font-weight:bold; text-align: center; line-height: 45px ;">
+                        <div class="row">
+                            <div class="col-1"></div>
+                            <div class="col-md-3">
+                                Quick Links
+                            </div>
+                            <div class="col-md-3">
+                                Services
+                            </div>
+                            <div class="col-md-3">
+                                Products
+                            </div>
+                        </div>
+                        <div class="row" style="font-size:20px; font-weight: normal; text-align: center;">
+                            <div class="col-1"></div>
+                            <div class="col-md-3">
+                                Home
+                            </div>
+                            <div class="col-md-3">
+                                IT-Staffing
+                            </div>
+                            <div class="col-md-3">
+                                Qlikdeals
+                            </div>
+                        </div>
+                        <div class="row" style="font-size:20px; font-weight: normal; text-align: center;">
+                            <div class="col-1"></div>
+                            <div class="col-md-3">
+                                About Us
+                            </div>
+                            <div class="col-md-3">
+                                IT-Solutions
+                            </div>
+                            <div class="col-md-3">
+                                Good Governance
+                            </div>
+                        </div>
+                        <div class="row" style="font-size:20px; font-weight: normal; text-align: center;">
+                            <div class="col-1"></div>
+                            <div class="col-md-3">
+                                Contact Us
+                            </div>
+                            <div class="col-md-3">
+                                Product Development
+                            </div>
+                            <div class="col-md-3">
+                               Legacy
+                            </div>
+                        </div>
+                        <div class="row" style="font-size:20px; font-weight: normal; text-align: center;">
+                            <div class="col-1"></div>
+                            <div class="col-md-3"></div>
+                            <div class="col-md-3">
+                                Digital Marketing
+                            </div>
+                            <div class="col-md-3"></div>
+                        </div>
+                    </div>
+                    <br><br><br>
+                    <div class="row">
+                        <div class="col" id="f2" style="font-size:15px; margin-left:50px;">
+                            Copyright &copy; 2022 All rights are reserved by Fixity Technologies.
+                        </div>
+                        <div class="col" style="margin-left:140px;">
+                            <a style="margin-right:40px" href="https://www.facebook.com/Fixity-Technologies-102964285044476"><i class="bi bi-facebook" style="color:white; font-size: 2rem;"></i></a>
+                            <a style="margin-right:40px" href="https://twitter.com/FixityTech_"><i class="bi bi-twitter" style="color:white; font-size: 2rem;"></i></a>
+                            <a style="margin-right:40px" href="https://www.instagram.com/fixitytech/"><i class="bi bi-instagram" style="color:white; font-size: 2rem;"></i></a>
+                            <a style="margin-right:40px" href="https://www.linkedin.com/company/fixity-technologies/"><i class="bi bi-linkedin" style="color:white; font-size: 2rem;"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
